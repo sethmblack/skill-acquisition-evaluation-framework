@@ -3,8 +3,9 @@ name: acquisition-evaluation-framework
 description: Evaluate acquisition targets using ecosystem and platform criteria, based on Satya Nadella's acquisition methodology that drove Microsoft's transformation through strategic purchases of LinkedIn, G...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3332
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - acquisition-evaluation-framework
 - transformation
